@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "24/7 BOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "armorboost.aternos.me",
+    "port": 60108,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
